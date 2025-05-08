@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the mode of transfer of heat from a hot region to a cold region without the help of the intervening medium called?",
+      "answers": {
+        "a": "radiation",
+        "b": "conduction",
+        "c": "convection",
+        "d": "diffusion"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the best radiator with the highest emissive power?",
+      "answers": {
+        "a": "Air",
+        "b": "A black body",
+        "c": "Water",
+        "d": "Mercury"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
