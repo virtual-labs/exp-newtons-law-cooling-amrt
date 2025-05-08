@@ -1,1 +1,1 @@
-## Experiment name
+## Newton's Law of Cooling
