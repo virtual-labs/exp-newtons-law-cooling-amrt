@@ -38,7 +38,7 @@ In the measurement menu the user can view the measured temperature reading and t
 
 ## Procedure for Real lab
 
-<p style="text-align: justify; ">The calorie meter is filled 2/3<sup>rd</sup> with the given liquid and is heated to a temperature of 80<sup>o</sup>C.   This liquid will act as a hot body which is subjected to cooling. The   thermometer is inserted in to the calorimeter. When the temperature   reading is 70<sup>o</sup>C the stopwatch is started. The time readings are noted for every 5<sup>o</sup>   fall of temperature up to the room temperature. The readings are   tabulated. A graph is drawn with temperature $(T)$¸ along Y axis and time $(t)$ along X axis, $dT/dt$ is found by taking slopes to tangents drawn at   various temperatures on the cooling curve. Hence Newton's law of cooling   is verified.</p>
+<p style="text-align: justify; ">The calorimeter is filled 2/3<sup>rd</sup> with the given liquid and is heated to a temperature of 80<sup>o</sup>C.   This liquid will act as a hot body which is subjected to cooling. The   thermometer is inserted in to the calorimeter. When the temperature   reading is 70<sup>o</sup>C the stopwatch is started. The time readings are noted for every 5<sup>o</sup>   fall of temperature up to the room temperature. The readings are   tabulated. A graph is drawn with temperature $(T)$¸ along Y axis and time $(t)$ along X axis, $dT/dt$ is found by taking slopes to tangents drawn at   various temperatures on the cooling curve. Hence Newton's law of cooling   is verified.</p>
 
 ### Observations and Calculations
 
