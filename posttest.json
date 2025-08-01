@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which Law is applicable for a cooling body when the temperature difference between the body and the surroundings is small?",
+      "answers": {
+        "a": "Planck Law",
+        "b": "Wien's Displacement Law",
+        "c": "Stefan's Law",
+        "d": "Newton's Law of Cooling"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the amount of radiant energy emitted by a body depend on?",
+      "answers": {
+        "a": "Temperature only.",
+        "b": "Nature and temperature on the surface",
+        "c": "Nature",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At what temperature do the Kelvin and Fahrenheit scales coincide?",
+      "answers": {
+        "a": "0 degree",
+        "b": "-40 degree",
+        "c": "100 degree",
+        "d": "40 degree"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
